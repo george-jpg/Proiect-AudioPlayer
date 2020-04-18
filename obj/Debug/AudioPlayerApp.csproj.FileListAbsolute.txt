@@ -1,0 +1,16 @@
+C:\Users\GEORGE\Desktop\Proiect AudioPlayer\AudioPlayerApp\bin\Debug\Form1.Designer.cs
+C:\Users\GEORGE\Desktop\Proiect AudioPlayer\AudioPlayerApp\bin\Debug\AudioPlayerApp.exe.config
+C:\Users\GEORGE\Desktop\Proiect AudioPlayer\AudioPlayerApp\bin\Debug\AudioPlayerApp.exe
+C:\Users\GEORGE\Desktop\Proiect AudioPlayer\AudioPlayerApp\bin\Debug\AudioPlayerApp.pdb
+C:\Users\GEORGE\Desktop\Proiect AudioPlayer\AudioPlayerApp\obj\Debug\AudioPlayerApp.csprojAssemblyReference.cache
+C:\Users\GEORGE\Desktop\Proiect AudioPlayer\AudioPlayerApp\obj\Debug\AudioPlayerApp.Properties.Resources.resources
+C:\Users\GEORGE\Desktop\Proiect AudioPlayer\AudioPlayerApp\obj\Debug\AudioPlayerApp.csproj.GenerateResource.cache
+C:\Users\GEORGE\Desktop\Proiect AudioPlayer\AudioPlayerApp\obj\Debug\AudioPlayerApp.csproj.CoreCompileInputs.cache
+C:\Users\GEORGE\Desktop\Proiect AudioPlayer\AudioPlayerApp\obj\Debug\AudioPlayerApp.exe
+C:\Users\GEORGE\Desktop\Proiect AudioPlayer\AudioPlayerApp\obj\Debug\AudioPlayerApp.pdb
+C:\Users\GEORGE\Desktop\Proiect AudioPlayer\AudioPlayerApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\GEORGE\Desktop\Proiect AudioPlayer\AudioPlayerApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\GEORGE\Desktop\Proiect AudioPlayer\AudioPlayerApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\GEORGE\Desktop\Proiect AudioPlayer\AudioPlayerApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\GEORGE\Desktop\Proiect AudioPlayer\AudioPlayerApp\obj\Debug\AudioPlayerApp.csproj.ResolveComReference.cache
+C:\Users\GEORGE\Desktop\Proiect AudioPlayer\AudioPlayerApp\obj\Debug\AudioPlayerApp.AudioPlayerApp.resources
