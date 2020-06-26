@@ -13,6 +13,12 @@
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
+             if (disposing)
+            {
+
+                if (mp3Player != null) mp3Player.Dispose();
+            }
+
             if (disposing && (components != null))
             {
                 components.Dispose();
@@ -73,7 +79,7 @@
             // 
             this.Logo.AutoSize = true;
             this.Logo.Font = new System.Drawing.Font("Tempus Sans ITC", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Logo.ForeColor = System.Drawing.Color.FloralWhite;
+            this.Logo.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.Logo.Location = new System.Drawing.Point(180, 9);
             this.Logo.Name = "Logo";
             this.Logo.Size = new System.Drawing.Size(182, 37);
@@ -145,6 +151,7 @@
             this.button4.Size = new System.Drawing.Size(57, 57);
             this.button4.TabIndex = 8;
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button5
             // 
