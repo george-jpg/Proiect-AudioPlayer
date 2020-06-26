@@ -34,7 +34,7 @@ Aplicatia dispune si de un design creat pe baza de Windows Forms, anumite butoan
 Altele:
 
 Pentru a se opri de tot o melodie, dupa play, a trebuit sa adaug o conditie in Form1.Designer 
-Ex:  if (disposing)
+Ex:      if (disposing)
             {
 
                 if (mp3Player != null) mp3Player.Dispose();
